@@ -1,0 +1,11 @@
+../Core/Src/main.c:88:6:update_pwm_duty	12
+../Core/Src/main.c:116:5:main	5
+../Core/Src/main.c:172:6:SystemClock_Config	3
+../Core/Src/main.c:201:13:MX_TIM3_Init	4
+../Core/Src/main.c:233:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:249:13:MX_GPIO_Init	1
+../Core/Src/main.c:292:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:306:9:uart_read_byte	2
+../Core/Src/main.c:314:9:uart_check_cmd	5
+../Core/Src/main.c:332:6:parse_motor_cmd	11
+../Core/Src/main.c:377:6:Error_Handler	1
